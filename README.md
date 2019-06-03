@@ -17,5 +17,5 @@
 
 [2.图片批量命名](Batch/Batch_setup.md)
 
-[3.Tekla 参数化代码](Tekla_code/Code_Setup.md)
+[3.Tekla help](Tekla_code/Code_Setup.md)
 
