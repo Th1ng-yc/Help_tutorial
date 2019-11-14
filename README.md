@@ -19,3 +19,6 @@
 
 [3.Tekla help](Tekla_code/Code_Setup.md)
 
+[4.Windows 10 LTSC激活](notes/Windows10.md)
+
+
