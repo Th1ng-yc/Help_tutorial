@@ -4,7 +4,7 @@
 
 **信息**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/1.jpg)
+![1.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bv8r0cl3j30dv0araby.jpg)
 
 
 *Please read the following important information before continuing*
@@ -19,7 +19,7 @@
 
 **选择安装位置**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/2.jpg)
+![2.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bv8zrscaj30dv0arq3z.jpg)
 
 
 
@@ -27,7 +27,7 @@
 
 **选择组件**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/3.jpg)
+![3.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bv9632epj30dv0arq4p.jpg)
 
 
 
@@ -81,7 +81,7 @@
 
 **创建开始菜单目录**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/4.jpg)
+![4.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bv9h15l8j30dv0arjsf.jpg)
 
 
 
@@ -91,7 +91,7 @@
 
 **选择Git使用的默认编辑器**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/5.jpg)
+![5.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bv9pl3bcj30dv0ar0u3.jpg)
 
 
 
@@ -121,8 +121,7 @@
 
 ## Step 6 Adjusting your PATH environment
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/6.jpg)
-
+![6.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bva0nlduj30dv0ardi3.jpg)
 
 
 **配置PATH环境**
@@ -163,7 +162,7 @@
 
 **选择HTTPS传输后端**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/7.jpg)
+![7.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bvaav9h0j30dv0argmz.jpg)
 
 
 
@@ -193,7 +192,7 @@
 
 **配置行结束转换**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/8.jpg)
+![8.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bvah7syej30ds0ar0ux.jpg)
 
 
 
@@ -227,7 +226,7 @@
 
 **配置终端模拟器以与 Git Bash 一起使用**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/9.jpg)
+![9.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bvap3re9j30ds0ar40p.jpg)
 
 
 
@@ -253,7 +252,7 @@
 
 **配置额外的选项**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/10.jpg)
+![10.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bvax7it5j30ds0arwgc.jpg)
 
 
 
@@ -291,7 +290,7 @@
 
 ## Step 11 Installing
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/11.jpg)
+![11.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bvbekqqrj30dv0armxq.jpg)
 
 
 
@@ -299,7 +298,7 @@
 
 ## Step 12 Completing the Git Setup Wizard
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/setup/12.jpg)
+![12.jpg](http://ww1.sinaimg.cn/large/00810L9aly1g9bvbna1a6j30dv0ardgo.jpg)
 
 
 # Git 初次运行前的配置并通过SSH连接GitHub
@@ -361,11 +360,11 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAklOUpkDHrfHY17SbrmTIpNLTGK9Tjom/BWDSUGPl+naf
 
 登录到您的 GitHub 上，点击你右上角的头像，**Settings** 选项。
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/configuration/1.jpg)
+![](http://ww1.sinaimg.cn/large/00810L9aly1g9bv69xdhbj30hc0aomxt.jpg)
 
 左栏 **SSH and GPG keys**  , **New SSH key**
 
-![](https://github.com/xiezongnan/Summarize/blob/master/git/images/configuration/2.jpg)
+![](http://ww1.sinaimg.cn/large/00810L9aly1g9bv70z77gj30th09qmyu.jpg)
 
 **Title** 标题，能够区分你的设备
 
