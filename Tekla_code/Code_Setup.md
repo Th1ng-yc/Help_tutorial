@@ -116,9 +116,3 @@
 |`mid(字符串,n, x)`|返回从第 n 个（从零开始）字符开始的字符串的 x 个字符。如果不设置最后一个参数 (x)，则返回字符串的最后部分。|`mid(P1,2,3)` 返回“100”|
 |`reverse(字符串)`|反转给定字符串。|`reverse(P1)` 返回“01*001LP”|
 ---
-
-<object type="application/pdf" data="file:///Help_tutorial/Tekla_code/tekla-18.0用户单元指南.pdf"
-           id="review" style="width:800px;  height:750px; margin-top:45px;  margin-left:500px" >
-2  </object>
-
-Help_tutorial/Tekla_code/tekla-18.0用户单元指南.pdf
