@@ -119,4 +119,4 @@
 
 <div id="example1"></div>
 <script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/Tekla_code/tekla-18.0用户单元指南.pdf", "#example1");</script>
+<script>PDFObject.embed("Tekla_code/tekla-18.0用户单元指南.pdf", "#example1");</script>
