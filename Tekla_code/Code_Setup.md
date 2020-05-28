@@ -117,6 +117,6 @@
 |`reverse(字符串)`|反转给定字符串。|`reverse(P1)` 返回“01*001LP”|
 ---
 
-<div id="example1"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("Tekla_code/tekla-18.0用户单元指南.pdf", "#example1");</script>
+<object type="application/pdf" data="file:///Tekla_code/tekla-18.0用户单元指南.pdf"
+           id="review" style="width:800px;  height:750px; margin-top:45px;  margin-left:500px" >
+2  </object>
