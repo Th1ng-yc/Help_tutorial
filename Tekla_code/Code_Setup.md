@@ -9,6 +9,7 @@
 |`fTpl("LENGTH",ID)`|返回具有给定对象 ID的模板属性的长度值。|`fTpl("LENGTH",6872)`返回ID为6872的对象的长度|
 |`dist_between_elem`|长度| |
 |`number_of_arrays`|数量| |
+|`fTpl("START-Z",ID)`|返回具有给定对象 ID的模板属性的Z坐标值。|
 |`+`|加|也用于创建参数字符串|
 |`-`|减| |
 |`*`|乘|乘比除快 `=D1*0.5比=D1/2` 快|
@@ -116,3 +117,6 @@
 |`reverse(字符串)`|反转给定字符串。|`reverse(P1)` 返回“01*001LP”|
 ---
 
+<div id="example1"></div>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed(/Tekla_code/tekla-18.0用户单元指南.pdf", "#example1");</script>
